@@ -14,14 +14,22 @@ A simple Spring Boot REST API for managing student records. This project perform
 ## 📁 Project Structure 
 
 student/
-└── src/main/java/com/example/student
+└── src/main/java/com/example/student 
+
 ├── StudentApplication.java
+
 ├── controller/StudentController.java
+
 ├── model/Student.java
+
 ├── repository/StudentRepository.java
+
 └── service/StudentService.java
+
 └── src/main/resources
+
 └── application.properties
+
 
 ## ⚙️ Setup Instructions
 
@@ -56,3 +64,4 @@ http://localhost:8080/h2-console
 ✔ Project runs successfully
 ✔ API tested via Postman
 ✔ Data persists in H2 memory during runtime
+
