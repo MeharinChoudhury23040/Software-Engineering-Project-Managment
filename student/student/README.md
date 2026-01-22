@@ -41,7 +41,7 @@ student/
 
 ## 🧪 Sample JSON for POST/PUT
 
-```json
+json
 {
   "name": "Meharin",
   "email": "meharin@gmail.com",
@@ -49,7 +49,8 @@ student/
 }
 
 ## 🛠 Database Configuration
-H2 in-memory database is used. Access H2 console at:                                                                                     http://localhost:8080/h2-console
+H2 in-memory database is used. Access H2 console at:                                                                                    
+http://localhost:8080/h2-console
 
 ## ✅ Status
 ✔ Project runs successfully
